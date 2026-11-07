@@ -1,7 +1,7 @@
 [project]
 name = "meu-projeto"
 version = "0.1.0"
-description = "Add your description here"
+description = "Notebooks de Introdução à Programação em Python"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
