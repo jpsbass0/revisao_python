@@ -19,10 +19,10 @@ Cada notebook segue a mesma sequência: título e objetivos, **Conceitos**, **Ex
 |---|---|---|---|
 | 1.1 | Variáveis, tipos, operadores, `input()` e f-string | Cálculo do IMC | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_01/m1_01_imc.ipynb) |
 | 2.1 | Comparações e `if`/`elif`/`else` | Classificação do IMC | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_02/m2_01_classificacao_imc.ipynb) |
-| 3.1 | Laço `for`, contador, `in` e `.lower()` | Contar consoantes | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_01_consoantes.ipynb) |
-| 3.2 | Posições, `range()`, `break` e variável de controle | Posição da quinta vogal | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_02_quinta_vogal.ipynb) |
-| 3.3 | `while`, valor sentinela, acumulador | Soma e média | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_03_soma_media.ipynb) |
-| 3.4 | Validação de entrada com `while`, `and`/`or` | Validar nota de 0 a 10 | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_04_validacao.ipynb) |
+| 3.1 | Laço `for`, contador, acumulador de texto, `in` e `.lower()` | Imprimir as consoantes de uma frase | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_01_consoantes.ipynb) |
+| 3.2 | `break`, variável de controle e `not` | Encontrar a quinta vogal de uma frase | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_02_quinta_vogal.ipynb) |
+| 3.3 | `while`, texto vazio (`""`) como sentinela, acumulador | Soma e média dos números digitados | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_03_soma_media.ipynb) |
+| 3.4 | Validação de entrada com `while True`, `and`/`or` e `.isdecimal()` | Validar número inteiro de 0 a 10 | [abrir](https://colab.research.google.com/github/jpsbass0/revisao_python/blob/main/aluno/modulo_03/m3_04_validacao.ipynb) |
 
 ## Como usar
 
